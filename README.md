@@ -4,11 +4,11 @@
 
 You should install SUMO, an urban traffic simulator. Please follow instructions in [here](https://sumo.dlr.de/docs/Downloads.php)
 
-We strongly recommend to use conda environment. We can install required libraries using `requirement.txt`
+We strongly recommend to use conda environment. We can install required libraries using `requirements.txt`
 ```
 conda create -n tsc python=3.8 -y
 conda activate tsc
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### Main Experiments

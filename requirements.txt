@@ -1,0 +1,9 @@
+torch==1.13.1
+botorch==0.7.3
+gpytorch==1.9.0
+tqdm
+traci
+pandas
+seaborn
+attrdict
+matplotlib
