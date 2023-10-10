@@ -25,7 +25,7 @@ Our method consists of three main steps: Offline Data Collection, Meta Training,
 
 
 - Meta Training
-    After collecting dataset, you should run the following command to train our ANP model. Model will be saved in `results/\<network\>/\<scheme\>/\<exp_id\>/ckpt.tar`.
+    After collecting dataset, you should run the following command to train our ANP model. Model will be saved in `results/<network>/<scheme>/anp/<exp_id>/ckpt.tar`.
 
     ```
     python meta_train.py --network 2by2 --scheme comb --model anp --exp_id trial1
