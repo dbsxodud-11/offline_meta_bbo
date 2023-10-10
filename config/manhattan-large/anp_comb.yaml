@@ -1,0 +1,11 @@
+x_dim: 784
+y_dim: 1
+r_dim: 64
+z_dim: 64
+h_dim: 64
+
+enc_pre_depth: 3
+enc_post_depth: 3
+qk_depth: 2
+v_depth: 2
+dec_depth: 3

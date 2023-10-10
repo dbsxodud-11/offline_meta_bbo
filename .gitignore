@@ -1,0 +1,8 @@
+__pycache__
+results
+.vscode
+*.ipynb
+*.tripinfo.xml
+*out
+*.log
+*.pkl

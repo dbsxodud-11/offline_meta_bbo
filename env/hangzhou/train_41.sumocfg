@@ -1,0 +1,10 @@
+<configuration>
+	<input>
+		<net-file value="hangzhou.net.xml" />
+		<route-files value="train_41.rou.xml" />
+	</input>
+	<time>
+		<begin value="0" />
+		<end value="3600" />
+	</time>
+</configuration>

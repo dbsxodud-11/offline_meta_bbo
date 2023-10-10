@@ -1,0 +1,9 @@
+<configuration>
+	<input>
+		<net-file value="grid.net.xml"/>
+		<route-files value="valid_12.rou.xml"/>
+	</input>
+	<output>
+		<tripinfo-output value="valid_12.tripinfo.xml"/>
+</output>
+</configuration>

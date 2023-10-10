@@ -1,0 +1,9 @@
+<configuration>
+	<input>
+		<net-file value="grid.net.xml"/>
+		<route-files value="train_87.rou.xml"/>
+	</input>
+	<output>
+		<tripinfo-output value="train_87.tripinfo.xml"/>
+</output>
+</configuration>

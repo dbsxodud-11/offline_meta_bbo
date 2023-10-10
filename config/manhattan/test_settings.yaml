@@ -1,0 +1,6 @@
+num_tests: 3
+init_num_points: 10
+test_num_trials: 100
+
+seed: 42
+n_intersections: 48

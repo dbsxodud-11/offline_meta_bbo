@@ -1,0 +1,10 @@
+<configuration>
+	<input>
+		<net-file value="manhattan_28x7.net.xml" />
+		<route-files value="train_49.rou.xml" />
+	</input>
+	<time>
+		<begin value="0" />
+		<end value="3600" />
+	</time>
+</configuration>

@@ -1,0 +1,11 @@
+x_dim: 16
+y_dim: 1
+r_dim: 32
+z_dim: 32
+h_dim: 32
+
+enc_pre_depth: 2
+enc_post_depth: 2
+qk_depth: 2
+v_depth: 2
+dec_depth: 2

@@ -1,0 +1,14 @@
+<routes>
+	<flow id="0" begin="0.00" from="road_0_1_0" to="road_3_1_0" end="1800.00" period="exp(0.017115343720657664)"/>
+	<flow id="1" begin="0.00" from="road_0_2_0" to="road_3_2_0" end="1800.00" period="exp(0.017115343720657664)"/>
+	<flow id="2" begin="0.00" from="road_0_3_0" to="road_3_3_0" end="1800.00" period="exp(0.017115343720657664)"/>
+	<flow id="3" begin="0.00" from="road_1_0_1" to="road_1_3_1" end="1800.00" period="exp(0.04031453057496417)"/>
+	<flow id="4" begin="0.00" from="road_2_0_1" to="road_2_3_1" end="1800.00" period="exp(0.04031453057496417)"/>
+	<flow id="5" begin="0.00" from="road_3_0_1" to="road_3_3_1" end="1800.00" period="exp(0.04031453057496417)"/>
+	<flow id="6" begin="0.00" from="road_4_1_2" to="road_1_1_2" end="1800.00" period="exp(0.01679370159908549)"/>
+	<flow id="7" begin="0.00" from="road_4_2_2" to="road_1_2_2" end="1800.00" period="exp(0.01679370159908549)"/>
+	<flow id="8" begin="0.00" from="road_4_3_2" to="road_1_3_2" end="1800.00" period="exp(0.01679370159908549)"/>
+	<flow id="9" begin="0.00" from="road_1_4_3" to="road_1_1_3" end="1800.00" period="exp(0.02577642410529267)"/>
+	<flow id="10" begin="0.00" from="road_2_4_3" to="road_2_1_3" end="1800.00" period="exp(0.02577642410529267)"/>
+	<flow id="11" begin="0.00" from="road_3_4_3" to="road_3_1_3" end="1800.00" period="exp(0.02577642410529267)"/>
+</routes>

@@ -1,0 +1,9 @@
+num_scenarios: 100
+num_val_scenario: 20
+num_samples_per_scenario: 200
+
+raw_input_dim: 196
+raw_output_dim: 48
+
+seed: 42
+
