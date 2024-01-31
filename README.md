@@ -1,4 +1,4 @@
-# An Offline Meta Black-box Optimization Framework for Adaptive Design of Traffic Light Scheme on Urban Road Networks
+# An Offline Meta Black-box Optimization Framework for Adaptive Design of Urban Traffic Light Management Systems
 
 ### Environment Setup
 
