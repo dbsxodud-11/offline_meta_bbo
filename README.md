@@ -16,6 +16,7 @@ pip install -r requirements.txt
 Our method consists of three main steps: Offline Data Collection, Meta Training, and Online Adaptation.
 
 - Offline Data Collection
+  
     To collect offline data, you should run the following command. You can set `num_worker` to accelerate the data collection process via parallelization.
 
     ```
@@ -25,6 +26,7 @@ Our method consists of three main steps: Offline Data Collection, Meta Training,
 
 
 - Meta Training
+  
     After collecting dataset, you should run the following command to train our ANP model. Model will be saved in `results/<network>/<scheme>/anp/<exp_id>/ckpt.tar`.
 
     ```
@@ -33,6 +35,7 @@ Our method consists of three main steps: Offline Data Collection, Meta Training,
     We provide script file for meta-training ANP across all networks and schemes in `scripts/meta_train.sh`
 
 - Online Adaptation
+  
     Finally, we employ Bayesian optimization with the trained ANP as a surrogate model to find optimal scheme for traffic lights with unseen traffic patterns. 
     You should run the following command to conduct online adaptation.
 
